@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<company id="2">
+    <nameCompany>Softserve</nameCompany>
+    <workers id="3">
+        <surname>Ivanenko</surname>
+        <name>Svitlana</name>
+        <lastname>Ivanovivna</lastname>
+        <gender>Female</gender>
+        <age>40</age>
+    </workers>
+    <workers id="7">
+        <surname>Vatin</surname>
+        <name>Volodymyr</name>
+        <lastname>Viktorovych</lastname>
+        <gender>Male</gender>
+        <age>35</age>
+    </workers>
+    <workers id="5">
+        <surname>Loza</surname>
+        <name>Ihor</name>
+        <lastname>Petrovych</lastname>
+        <gender>Male</gender>
+        <age>19</age>
+    </workers>
+    <workers id="6">
+        <surname>Kyznecova</surname>
+        <name>Olena</name>
+        <lastname>Dmytrivna</lastname>
+        <gender>Female</gender>
+        <age>54</age>
+    </workers>
+</company>

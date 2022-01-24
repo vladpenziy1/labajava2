@@ -1,0 +1,33 @@
+{
+  "nameCompany" : "Nova pochta",
+  "numberCompany" : 3,
+  "list" : [ {
+    "id" : 4,
+    "gender" : "Male",
+    "age" : 36,
+    "name" : "Maksym",
+    "surname" : "Maksymov",
+    "lastname" : "Maksymovych"
+  }, {
+    "id" : 2,
+    "gender" : "Female",
+    "age" : 41,
+    "name" : "Mariya",
+    "surname" : "Stepanov",
+    "lastname" : "Stepanovivna"
+  }, {
+    "id" : 5,
+    "gender" : "Male",
+    "age" : 19,
+    "name" : "Ihor",
+    "surname" : "Loza",
+    "lastname" : "Petrovych"
+  }, {
+    "id" : 1,
+    "gender" : "Male",
+    "age" : 40,
+    "name" : "Petro",
+    "surname" : "Andrienko",
+    "lastname" : "Mykolayovych"
+  } ]
+}
